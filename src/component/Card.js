@@ -1,7 +1,7 @@
 import Card from 'react-bootstrap/Card';
 
 function BgColorExample() {
-  return (
+    return (
     <>
         {[
             'Primary',
